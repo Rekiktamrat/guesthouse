@@ -340,7 +340,7 @@ const App = () => {
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute top-4 right-4 bg-amber-600 text-white px-3 py-1 rounded-full text-sm font-medium">
-                  From $99/night
+                  From 99/night
                 </div>
               </div>
               <div className="p-6">
@@ -391,7 +391,7 @@ const App = () => {
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute top-4 right-4 bg-amber-600 text-white px-3 py-1 rounded-full text-sm font-medium">
-                  From $149/night
+                  From 149/night
                 </div>
               </div>
               <div className="p-6">
@@ -445,7 +445,7 @@ const App = () => {
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute top-4 right-4 bg-amber-600 text-white px-3 py-1 rounded-full text-sm font-medium">
-                  From $199/night
+                  From 1000 birr night
                 </div>
               </div>
               <div className="p-6">
